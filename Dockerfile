@@ -1,1 +1,1 @@
-eaustin6/rebornx:latest
+FROM eaustin6/rebornx:latest
